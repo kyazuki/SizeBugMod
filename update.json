@@ -1,0 +1,25 @@
+{
+  "homepage": "https://github.com/kyazuki/SizeBugMod/releases",
+  "1.16.3": {
+    "0.1.0": "Published."
+  },
+  "1.16.2": {
+    "0.1.0": "Published."
+  },
+  "1.16.1": {
+    "0.1.0": "Published."
+  },
+  "1.16": {
+    "0.1.0": "Published."
+  },
+  "promos": {
+    "1.16.3-latest": "0.1.0",
+    "1.16.3-recommended": "0.1.0",
+    "1.16.2-latest": "0.1.0",
+    "1.16.2-recommended": "0.1.0",
+    "1.16.1-latest": "0.1.0",
+    "1.16.1-recommended": "0.1.0",
+    "1.16-latest": "0.1.0",
+    "1.16-recommended": "0.1.0"
+  }
+}
