@@ -32,7 +32,7 @@ description='''
 Size Buggy World!
 '''
 # A dependency - use the . to indicate dependency for a specific modid. Dependencies are optional.
-[[dependencies.templatemod]] #optional
+[[dependencies.sizebugmod]] #optional
     # the modid of the dependency
     modId="forge" #mandatory
     # Does this dependency have to exist - if not, ordering below must be specified
